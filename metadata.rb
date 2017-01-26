@@ -1,0 +1,7 @@
+name 'jenkins'
+maintainer 'The Authors'
+maintainer_email 'vijay.singh@sourcefuse.com'
+license 'all_rights'
+description 'Installs/Configures jenkins'
+long_description 'Installs/Configures jenkins'
+version '0.1.0'

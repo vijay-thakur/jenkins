@@ -1,0 +1,7 @@
+DEPENDENCIES
+  jenkins
+    path: .
+    metadata: true
+
+GRAPH
+  jenkins (0.1.0)
