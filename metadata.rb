@@ -1,6 +1,6 @@
 name 'jenkins'
 maintainer 'The Authors'
-maintainer_email 'vijay.singh@sourcefuse.com'
+maintainer_email 'your@mail.com'
 license 'all_rights'
 description 'Installs/Configures jenkins'
 long_description 'Installs/Configures jenkins'
